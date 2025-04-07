@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Mini Project - Feature & Edge Detection
+# 🧠 Computer Vision Mini Project - Edge Detection
 
 ## 📌 Project Overview
 
